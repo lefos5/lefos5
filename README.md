@@ -1,8 +1,3 @@
-Anladım! Abdulkadir Atakan profilini, tıpkı Dr. Murat Altun profilindeki gibi **büyük `for-the-badge` sosyal medya butonları, Typing SVG başlık animasyonu, tablo içi detaylı HTML proje düzeni ve GitHub Aktivite Grafiği (Activity Graph)** ile donatarak yeniden tasarladım.
-
-Aşağıdaki kod bloğunu doğrudan kopyalayıp Abdulkadir Atakan profilinin `README.md` dosyasına yapıştırabilirsin:
-
-```markdown
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abdulkadir%20Atakan&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineering%20Student&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn)
 
 <p align="center">
@@ -159,5 +154,3 @@ I'm a Computer Engineering student at **Turkish-German University**, passionate 
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
-
-```
