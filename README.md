@@ -1,96 +1,163 @@
-![header](https://capsule-render.vercel.app/api?type=kaufman&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdulkadir%20Atakan&fontSize=45&fontColor=ffffff&desc=Computer%20Engineering%20Student&descSize=18&descColor=a9b1d6&animation=fadeIn)
+Anladım! Abdulkadir Atakan profilini, tıpkı Dr. Murat Altun profilindeki gibi **büyük `for-the-badge` sosyal medya butonları, Typing SVG başlık animasyonu, tablo içi detaylı HTML proje düzeni ve GitHub Aktivite Grafiği (Activity Graph)** ile donatarak yeniden tasarladım.
+
+Aşağıdaki kod bloğunu doğrudan kopyalayıp Abdulkadir Atakan profilinin `README.md` dosyasına yapıştırabilirsin:
+
+```markdown
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abdulkadir%20Atakan&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineering%20Student&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdulkadir-atakan-12b039398/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:abdulkadiratakan@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://komarev.com/ghpvc/?username=lefos5&style=flat-square&color=0077B5&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Computer+Engineering+Student+%F0%9F%93%9A;Building+AI-powered+Web+Applications+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdulkadir-atakan-12b039398/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:abdulkadiratakan@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-## ⚡ Hakkımda / About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lefos5&style=for-the-badge&color=0077B5&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <p>Türk-Alman Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Yazılım geliştirme, veri yapıları, algoritmalar ve SQL konularına odaklanarak kendimi geliştiriyorum.</p>
-      <p>Verimli, ölçeklenebilir sistemler inşa etmeyi ve güncel teknolojileri projelerime entegre etmeyi seviyorum. Takım çalışmasına yatkın, analitik düşünmeyi benimseyen bir geliştiriciyim.</p>
-      <br>
-      <img src="https://img.shields.io/badge/Konum-İstanbul,%20Türkiye-eceff4?style=flat-square&logo=googlemaps&logoColor=red" alt="Location">
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9pM3R5ODNnbms1cmY2N3BvM3Y4M3Z6M3Z6M3Z5bW9pM3R5ODMmZXA9Y3Y_bXNnLXNpZGU/200.gif" width="180" alt="Coding GIF">
-    </td>
-  </tr>
-</table>
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2)
 
----
+## :technologist: &nbsp;About Me
 
-## 🚀 Öne Çıkan Projeler / Projects
+I'm a Computer Engineering student at **Turkish-German University**, passionate about software development and problem solving. I'm currently sharpening my skills in **data structures, algorithms, and SQL**, and I love building efficient systems while continuously learning new technologies.
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2)
+
+## :rocket: &nbsp;Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎓 <a href="https://github.com/lefos5/akademiX">AkademiX</a></h3>
-      <p>TAÜ öğrencileri için AI destekli akademik asistan. Google Classroom entegrasyonu, materyal yönetimi, sayfa çevirisi, sınav oluşturma ve RAG (Gemini 2.5 Flash) ile akıl haritası araçları içerir.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white">
-        <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white">
-      </p>
-      <a href="https://lefos5.github.io/akademiX">
-        <img src="https://img.shields.io/badge/Canlı_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
-      </a>
+      <h4>:mortar_board: <a href="https://github.com/lefos5/akademiX">AkademiX</a></h4>
+      <p>TAÜ öğrencileri için AI destekli akademik asistan — Google Classroom entegrasyonu, materyal yönetimi, sayfa çevirisi, çalışma notu, sınav oluşturma, RAG ile soru-cevap ve akıl haritası araçları.</p>
+      <p><em>Frontend: Vanilla JS · Backend: Vercel Functions · DB: Supabase · AI: Gemini 2.5 Flash</em></p>
+      <a href="https://lefos5.github.io/akademiX"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"></a>
     </td>
     <td width="50%" valign="top">
-      <h3>⚽ <a href="https://github.com/Bilgisayar-Kavramlari/MacKolayWebsite">Maç Kolay</a></h3>
-      <p>Halı saha maçı organize etmeyi kolaylaştıran full-stack web uygulaması. Güvenilirlik puanı sistemi ile oyuncuları ve eksik kadroları bir araya getirir.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
-      </p>
-      <a href="https://mackolay.replit.app/">
-        <img src="https://img.shields.io/badge/Canlı_Demo-000000?style=for-the-badge&logo=replit&logoColor=white" alt="Live Demo">
-      </a>
+      <h4>:soccer: <a href="https://github.com/Bilgisayar-Kavramlari/MacKolayWebsite">Maç Kolay</a></h4>
+      <p>Halı saha maçı organize etmeyi kolaylaştıran full-stack web uygulaması. Güvenilirlik puanı sistemi ile oyuncuları bir araya getirir.</p>
+      <p><em>Frontend: React, TypeScript, Vite · Backend: Node.js, Express</em></p>
+      <a href="https://mackolay.replit.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=replit&logoColor=white" alt="Live Demo"></a>
     </td>
   </tr>
 </table>
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2)
 
-## 🛠️ Teknolojiler & Yetkinlikler / Tech Stack
+## :mortar_board: &nbsp;Education
 
-💻 **Frontend & Dil**
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>:school: Turkish-German University</h4>
+      <ul>
+        <li>Computer Engineering</li>
+        <li>2022 – Present</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>:school: TOBB Science High School</h4>
+      <ul>
+        <li>2018 – 2022</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2)
+
+## :briefcase: &nbsp;Experience
+
+<h4>:roller_coaster: Phantasialand, Cologne — Flexible Staff Member</h4>
+
+*July 2025 – September 2025*
+
+- Worked in various operational roles
+- Assisted international guests in German and English
+- Demonstrated adaptability and teamwork in a high-volume environment
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2)
+
+## :dart: &nbsp;Skills
+
+<div align="center">
+
+![Time Management](https://img.shields.io/badge/Time_Management-6366F1?style=for-the-badge)
+![Teamwork](https://img.shields.io/badge/Teamwork-0DB7ED?style=for-the-badge)
+![Analytical Thinking](https://img.shields.io/badge/Analytical_Thinking-F7931E?style=for-the-badge)
+![Innovative Mindset](https://img.shields.io/badge/Innovative_Mindset-4285F4?style=for-the-badge)
+
+</div>
+
+## :desktop_computer: &nbsp;Tech Stack
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2)
+
+## :medal_sports: &nbsp;Certifications
+
+<div align="center">
+
+| &nbsp; | Certification | Provider |
+|:------:|----------------|----------|
+| :page_facing_up: | **Introduction to Databases** | BTK Akademi |
+| :page_facing_up: | **C Programming Language** | BTK Akademi |
+
+</div>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2)
+
+## :speech_balloon: &nbsp;Languages
+
+<div align="center">
+
+![Turkish](https://img.shields.io/badge/Turkish-Native-D32F2F?style=for-the-badge)
+![German](https://img.shields.io/badge/German-B2-000000?style=for-the-badge)
+![English](https://img.shields.io/badge/English-B1-00247D?style=for-the-badge)
+
+</div>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2)
+
+## :bar_chart: &nbsp;GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lefos5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lefos5&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" height="170" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lefos5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" height="170" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lefos5&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae" alt="Activity Graph" width="95%" />
+</div>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2)
+
+<p align="center">
+  <a href="mailto:abdulkadiratakan@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-⚙️ **Backend & Veritabanı**
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 
-🧠 **Soft Skills**
-<p align="left">
-  <img src="https://img.shields.io/badge/Zaman_Yönetimi-6366F1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Takım_Çalışması-0DB7ED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Analitik_Düşünme-F7931E?style=flat-square" />
-</p>
-
----
-
-## 🎓 Eğitim & Deneyim / Education & Experience
-
-```anthropic-markdown
-🔹 Türk-Alman Üniversitesi | Bilgisayar Mühendisliği (2022 - Devam Ediyor)
-🔹 TOBB Fen Lisesi | (2018 - 2022)
-
-🔹 Phantasialand, Köln | Esnek Zamanlı Operasyon Personeli (Temmuz 2025 – Eylül 2025)
-   • Uluslararası misafirlere Almanca ve İngilizce dillerinde destek sağlandı.
-   • Yoğun ve dinamik bir ortamda adaptasyon ve takım çalışması becerileri geliştirildi.
+```
